@@ -1,0 +1,5 @@
+# Install with: pip install -r requirements-dev.txt
+pre-commit>=3.7
+ruff>=0.4
+mypy>=1.10
+pytest>=8.2
